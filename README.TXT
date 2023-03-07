@@ -10,4 +10,6 @@ The Tesseract OCR tool, on the other hand, is licensed under the Apache License 
 
 JOCRConverter combines the functionalities of these two powerful tools and provides a simple and intuitive interface for users to convert their documents into searchable and editable PDFs. The software is compatible with various image and PDF formats and can be used on multiple operating systems. With JOCRConverter, users can easily digitize their paper documents and make them searchable and editable, saving time and effort in the process.
 
+Source access in the link: https://github.com/Voualss/jconverterocr
 Contact for contribute: vouals_vt@protonmail.ch
+
